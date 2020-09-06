@@ -1,4 +1,4 @@
-# tesonero-test-task
+# test-task
 
 ## Project setup
 ```
